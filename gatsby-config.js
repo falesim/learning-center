@@ -13,7 +13,7 @@ module.exports = {
       'typescript',
     ],
   },
-  pathPrefix: '/',
+  pathPrefix: '/learning-center',
   plugins: [
     `gatsby-plugin-layout`,
     {
