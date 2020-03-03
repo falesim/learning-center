@@ -33,7 +33,8 @@
   "license": "(CC-BY-NC-4.0 OR Apache-2.0)",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build --prefix-paths && gh-pages -d public",
+    "build": "gatsby build --prefix-paths",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "dev": "gatsby develop",
     "format": "prettier --write \"src/**/*.{js,jsx,md,css}\"",
     "lint": "eslint \"src/**/*.{js,jsx}\""
