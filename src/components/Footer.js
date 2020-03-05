@@ -17,7 +17,7 @@ const Footer = () => {
       <a
         css={css`
           color: #ccc;
-          :hover {
+          &:hover {
             color: #fff;
           }
         `}
