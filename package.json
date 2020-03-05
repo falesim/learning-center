@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "sspantz<sspantiezheng@gmail.com>",
   "dependencies": {
+    "@emotion/core": "10.0.28",
     "bootstrap": "^4.2.1",
     "code-mirror-themes": "^1.0.0",
     "gatsby": "^2.0.91",
