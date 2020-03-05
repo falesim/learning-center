@@ -2,9 +2,5 @@
 order: 1
 path: '/week1'
 title: 'Week 1'
-date: 2020-03-03
+date: 2020-03-07
 ---
-
-# Week1
-
-ready to go
