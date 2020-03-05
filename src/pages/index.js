@@ -16,11 +16,14 @@ const IndexPage = () => (
             keywords
           }
         }
-        allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___order] }) {
+        allMarkdownRemark(
+          sort: { order: DESC, fields: [frontmatter___order] }
+        ) {
           edges {
             node {
               id
               frontmatter {
+                date(formatString: "MMM DD, YYYY")
                 order
                 path
                 title

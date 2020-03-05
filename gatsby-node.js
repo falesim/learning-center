@@ -1,9 +1,9 @@
-const path = require("path");
+const path = require('path')
 
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions;
+  const { createPage } = actions
 
-  const lessonTemplate = path.resolve(`src/templates/lessonTemplate.js`);
+  const lessonTemplate = path.resolve(`src/templates/lessonTemplate.js`)
 
   return graphql(`
     {
@@ -17,6 +17,7 @@ exports.createPages = ({ actions, graphql }) => {
             html
             id
             frontmatter {
+              date
               order
               path
               title
@@ -25,16 +26,16 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     if (result.errors) {
-      return Promise.reject(result.errors);
+      return Promise.reject(result.errors)
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
-        component: lessonTemplate
-      });
-    });
-  });
-};
+        component: lessonTemplate,
+      })
+    })
+  })
+}
