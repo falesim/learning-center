@@ -8,7 +8,7 @@ This site is built from Brian Holt's
 
 ## Getting started
 
-1. make sure node version is 10
+1. make sure node version is 10.x
 1. `npm install --global gatsby-cli` - make sure you're on Gatsby v2+
    - See [docs here](https://next.gatsbyjs.org/docs/) if you need help
 1. `gatsby new course-website https://github.com/btholt/gatsby-course-starter`
