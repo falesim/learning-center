@@ -1,7 +1,7 @@
 ---
 order: 1
 path: '/week1'
-title: 'An Brief Introduction to Array in Javascript'
+title: 'Week1: A Brief Introduction to Array in Javascript'
 date: 2020-03-07
 author: sspantz
 ---
