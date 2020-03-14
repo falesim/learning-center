@@ -14,27 +14,28 @@ author: sspantz
 
 ```js
 // creating array with []
-var empty = []
-var numbers = [0, 1, 2, 3, 4]
-var values = [true, 'test', 0]
-var operation = [1 - 1, 's' + []]
-var undef = [1, , , 4]
+var empty = [] // create an empty array
+var numbers = [0, 1, 2, 3, 4] // create an array with 5 elements
+var values = [true, 'test', 0] // create an array with 3 elements of differnet types
+var operation = [1 - 1, 's' + []] // create an array with element which can be an expression
+var undef = [1, , , 4] // create an array with empty element
 ```
 
 ```js
 // creating array using Array constructor
-var a = new Array()
-var b = new Array(10)
-var c = new Array(4, 3, 'test', false, 3 / 10)
+var a = new Array() // create an empty array using constructor function
+var b = new Array(10) // create an array with 10 empty element using constructor function
+var c = new Array(4, 3, 'test', false, 3 / 10) // create an array with element which can be an expression using constructor function
 ```
 
 #### 2. Read and Write
 
 ```js
 var a = [1, 2, 3, 4]
-a[0]
-a[1] = 3
-a.length
+a[0] // read
+a[1] = 3 // write
+a.length // length of an array
+a[4] // undefined, it does not throw an error or do anything else, just return 'undefined'
 ```
 
 #### 3. Sparse Array
@@ -57,9 +58,9 @@ var a2 = [undefined] // undefined as an element
 ```js
 var a = [1, 2, 3, 4, 5]
 a.length // 5
-a.length = 3
-a.length = 0
-a.length = 5
+a.length = 3 // shortend array a to [1, 2, 3]
+a.length = 0 // []
+a.length = 5 // { length: 5 }
 ```
 
 #### 5. Add and Delete
@@ -245,3 +246,7 @@ not mentioned this time
 #### 15. String as an Array
 
 not mentioned this time
+
+#### 16. Others
+
+read "oo js"
