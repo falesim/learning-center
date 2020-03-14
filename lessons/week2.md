@@ -1,23 +1,16 @@
 ---
-title: "Week 2"
-path: "/week2"
 order: 2
+path: '/week2'
+title: 'Week2: 合同结构'
 date: 2020-03-14
+author: dennyxi
 ---
 
 # **合同结构**
 
 ### _需要的人员配合名单_
 
-```mermaid
-graph TD
-A1[产品UI]-->B(合同)
-A2[前端设计]-->B(合同)
-A3[后端设计]-->B(合同)
-A4[售后运维]-->B(合同)
-B(合同)-->C{验收产品}
-C{验收产品}-->D(完成)
-```
+![合同配合图](./images/hetong.png)
 
 ## _一般合同结构_
 
