@@ -10,7 +10,7 @@ author: dennyxi
 
 ### _需要的人员配合名单_
 
-![合同配合图](./images/hetong.png)
+![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/hetong.PNG)
 
 ## _一般合同结构_
 
