@@ -17,55 +17,54 @@ author: dennyxi
 4. 运维： 运维范围和维护内容
 5. 合同的总定价是双方商讨后的结果，销售部在细分每一项的单价
 6. 最后的验收产品，主要给甲方检查相关要求部分是否达到要求，甲方签收了，证明合同上的义务已经达成了，除了运维部分还需要执行，之后出现要求更改就需要重新制定新的合同，小改动还是可以帮忙更改的。
----
+
 ## _一般合同结构_
 
 1. 项目内容
 
-   1. 内容名称
+    1. 内容名称
 
-      * 每一项名称（如：网站建设，运维，响应式等），给双方知道到底要做什么内容，乙方需要达到什么效果。
-      * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同1.PNG)
-    ---
+        * 每一项名称（如：网站建设，运维，响应式等），给双方知道到底要做什么内容，乙方需要达到什么效果。
+        * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同1.PNG)
+    
     2.  内容介绍 
-      * 每一项静态功能的介绍（如：首页有产品目录，转入注册和登录页面，各类产品分类，和推荐产品），每一页包含什么内容和有什么功能；
-      * 每一项动态功能介绍（如：首页出现最新的新闻栏，可以循环滚动，有轮播图），
+        * 每一项静态功能的介绍（如：首页有产品目录，转入注册和登录页面，各类产品分类，和推荐产品），每一页包含什么内容和有什么功能；
+        * 每一项动态功能介绍（如：首页出现最新的新闻栏，可以循环滚动，有轮播图），
       每一页包含什么动态内容和功能；
-      * 每一项功能实现到什么效果（如：轮播图可以滚动多张大图，点击圆点可以看到图片）
-      * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同3.PNG)
-      ---
+        * 每一项功能实现到什么效果（如：轮播图可以滚动多张大图，点击圆点可以看到图片）
+        * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同3.PNG)
+      
     3.  项目的单价 
-      * 每一大项的价格要表明
-      * 还要一个合计总数
-      * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同4.PNG)
-      ---
-3.  项目合同金额
+        * 每一大项的价格要表明
+        * 还要一个合计总数
+        * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同4.PNG)
+      
+2.  项目合同金额
     *  合同的金额要大小写
     *  还需要合同签订后先要求预支付百分几的定金，在完成后多少天内支付剩下的部分
     * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同2.PNG)
-4.  付款方式
+3.  付款方式
 
     *  现金
     *  转账方式
-        * 需要填写双方的汇款信息（公司银行账户，什么银行，银行账号）
+      * 需要填写双方的汇款信息（公司银行账户，什么银行，银行账号）
     *  支票
     *  是否需要缴纳税款
     * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同5.PNG)
 
-5.  验收方式
-
+4.  验收方式
     * 甲方可以通过任何与因特网进行网络连接的计算机浏览自己的主页。
     * 主页无文字拼写及图片（以甲方提供的材料为标准）错误。
     * 验收合格，甲方以书面方式签收。
     * 验收合格后，如果甲方需要修改功能及主页，改动在不违背主页风格和系统分析的前提下，一个月内乙方予以修改；改动要求对程序开发要求增加较大，须另交开发制作费，具体收费标准双方协商后确定。
 
     * ![合同配合图](https://raw.githubusercontent.com/falesim/learning-center/master/lessons/images/合同6.PNG)
-6.  违约责任
+5.  违约责任
     *  约束不合理的行为（如租房不能够在不允许的情况下转租给其他人）
     *  针对一些不可抗力因素
     *  甲方违约，乙方有权利不退还定金
     *  乙方没有按时完成项目，乙方也要自行承担责任
-7.  保密
+6.  保密
     * 双方保证对从另一方取得且无法自公开渠道获得的商业秘密（技术信息、经营信息及其他商业秘密）予以保密。未经该商业秘密的原提供方同意，一方不得向任何第三方泄露该商业秘密的全部或部分内容。但法律、法规另有规定或双方另有约定的除外。
 
 ## _非一般合同结构_
