@@ -36,7 +36,7 @@ Q & A:
 
   - 无效组合拳
     - 包含“ND”，“SA”
-    - "CC0"(非CC授权)![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/140px-Cc-zero.svg.png)
+    - "CC0"(非CC授权)![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/Cc-zero.svg.png)
     
   - 有效的组合拳
 
