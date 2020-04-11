@@ -12,33 +12,40 @@ author: Dennyxi
 
 知识共享（英语：Creative Commons）:
 *主要宗旨是使得著作物能更广为流通与改作，可使其他人据以创作及共享，并以所提供的许可方式确保上述理念。*
+[CC协议](https://creativecommons.org/licenses/by/2.0/legalcode)
 
 Q & A:
   - 知道"copyright"?"copyleft"?
   - 你觉得它是著作权的哪种类型？“保留所有权利”？“不保留任何权利”？“还是....”?
    
 
-#### Chapter 2: 知识共享图标
+#### Chapter 2: 协议
 
 ---
 
-六种核心许可证协议
+四种核心权利，六种常见组合
+-Creative Commons（知识共享）是一个相对宽松的版权协议。它只保留了几种权利（some rights reserved）。使用者可以明确知道所有者的权利，不容易侵犯对方的版权，作品可以得到有效传播。
 
-Q & A:
-  - 不适用于原始创作者
+作为作者，你可以选择以下1~4种权利组合:
+  - 署名（Attribution，简写为BY）：必须提到原作者。
+  - 非商业用途（Noncommercial，简写为NC）：不得用于盈利性目的。
+  - 禁止演绎（No Derivative Works，简写为ND）：不得修改原作品, 不得再创作。
+  - 相同方式共享（Share Alike，简写为SA）：允许修改原作品，但必须使用相同的许可证发布。
 
+知识共享协议允许作者选择不同的授权条款和根据不同国家的著作权法制定的版权协议，版权持有人可以指定以下的条件（详见下图）：
+  - 在没有指定“nc”的情况下，将授权对本作品进行商业利用；
+  - 在没有指定“nd”的情况下，将授权创作衍生作品。
+  
     | 标志  | 英文 | 缩写 | 全称 | 说明 |
     | ----- | ---- | ---- | ---- | ---- |
-    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/60px-Cc-by_new_white.svg.png)  | Attribution | BY | 署名 | 您（用户）允许他人对自己享有著作权的作品及演绎作品进行复制、发行、展览、表演、放映、广播或通过信息网络向公众传播，但在这些过程中对方必须保留您对原作品的署名。 |
-    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/Cc-nc_white.svg.png)  | 	NonCommercial | NC | 非商业性使用 | 您（用户）允许他人对您享有著作权的作品及演绎作品进行复制、发行、展览、表演、放映、广播或通过信息网络向公众传播，但仅限于非商业性目的。 |
-    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/60px-Cc-nd_white.svg.png)  | NoDerivs | ND | 禁止演绎 | 您（用户）允许他人对您的作品原封不动地进行复制、发行、展览、表演、放映、广播或通过信息网络向公众传播，但不得进行演绎创作。 |
-    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/60px-Cc-sa_white.svg.png)  | ShareAlike | SA | 相同方式共享 | 只有在他人对演绎作品使用与您的原作品相同的许可协议的情况下，您（用户）才允许他人发行其演绎作品。 |
+    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/60px-Cc-by_new_white.svg.png)  | Attribution | BY | 署名 | 你可以自由复制、散布、展示及演出本作品；您必须按照作者或授权人所指定的方式，保留其姓名标示 |
+    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/Cc-nc_white.svg.png)  | 	NonCommercial | NC | 非商业性使用 | 您可以自由复制、散布展示及演出本作品；您不得为商业目的而使用本作品 |
+    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/60px-Cc-nd_white.svg.png)  | NoDerivs | ND | 禁止演绎 | 您可以自由复制、散布、展示及演出本作品；您不得改变、转变或作本作品 |
+    | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/60px-Cc-sa_white.svg.png)  | ShareAlike | SA | 相同方式共享 | 您可以自由复制、散布、展示及演出本作品；若您改变、转变或作本作品，仅在遵守与本著作相同的授权条款下，您才能散布有本作品产生的衍生作品。 |
 
-  - 无效组合拳
-    - 包含“ND”，“SA”
-    - "CC0"(非CC授权)![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/Cc-zero.svg.png)
+这些不同条件共有16种组合模式，其中4种组合由于同时包括互相排斥的“nd”和“sa”而无效；1种没有以上任何条件的协议，它相当于公有领域。在CC 2.0以上的版本，又有5种没有署名条款的协议被列为淘汰，因为98%的授权者都要求署名。
     
-  - 有效的组合拳
+  - 简化后剩下6种协议组合（详见下图）：
 
     | 许可证协议  | 有效组合 | 
     | ----- | ---- | 
@@ -49,17 +56,27 @@ Q & A:
     | 署名标示（BY）-非商业性（NC）-相同方式共享（SA）  | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/160px-CC-BY-NC-SA.svg.png) |
     | 署名标示（BY）-非商业性（NC）-禁止演绎（ND）  | ![](https://raw.githubusercontent.com/dennyxi/learning-center/master/lessons/images/160px-CC-BY-NC-ND.svg.png) | 
 
-#### Chapter 3: 不会误解的名字
+#### Chapter 3: 可用于cc0的网站
 
 ---
+- 图片和icon
+- [CC0 免費圖庫搜尋引擎](https://cc0.wfublog.com/?)
+- [阿里巴巴矢量图标](https://www.iconfont.cn/)
+- [freepik](https://www.freepik.com/)
+- [LibreStock](https://librestock.com/)
+- [Flaticon](https://www.flaticon.com/)
+- 音乐
+- [freesound](https://freesound.org/browse/tags/music/)
+- [youtube](https://www.youtube.com/)
 
-这个名字会被别人误会吗?
-
+---
 Q & A:
-  - first and last
-  - begin and end
-  - boolean
-  - expectation
+  - google 搜索的坑
+  - 中文免费图片的坑
+ 
+
+ ---
+ -为了避免不必要的麻烦，还是要在图片上注明非商用，或者仅供设计用途的水印
 
 
 
