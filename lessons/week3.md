@@ -1,7 +1,7 @@
 ---
 order: 3
 path: '/week3'
-title: 'Week3: introduction to react: first part'
+title: 'Week3: introduction to react: first part of ReactJS serius'
 date: 2020-03-21
 author: cty
 ---
